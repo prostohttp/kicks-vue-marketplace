@@ -68,8 +68,6 @@
         @apply opacity-30 cursor-default;
     }
 
-    .button:focus {}
-
     .button-filled {
         @apply bg-theme-black text-theme-white;
     }

@@ -89,7 +89,7 @@
     }
 
     .input-message {
-        @apply text-[12px] font-light
+        @apply text-[12px]
     }
 
     .input.danger .input-field {
